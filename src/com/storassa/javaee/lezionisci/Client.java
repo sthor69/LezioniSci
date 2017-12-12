@@ -7,6 +7,7 @@ import javax.persistence.*;
  * Entity implementation class for Entity: Client
  *
  */
+
 @Entity
 public class Client implements Serializable {
 	
