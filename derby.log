@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jul 11 18:10:11 CEST 2017:
+Avvio della versione di Derby The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): istanza a816c00e-015d-326a-45d9-000004d12320
+sulla directory di database C:\Users\sergio.torassa\workspace\LaralezioniSci\database con caricatore classi sun.misc.Launcher$AppClassLoader@73d16e93 
+Caricato da file:/C:/Users/sergio.torassa/workspace/libraries/Derby/db-derby-10.13.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=C:\Users\sergio.torassa\workspace\LaralezioniSci
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Programma di caricamento classe database avviato - derby.database.classpath=''
